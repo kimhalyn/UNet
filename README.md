@@ -1,2 +1,2 @@
 # UNet
-![UNet](https://user-images.githubusercontent.com/74166634/128167954-91e95faa-e295-47c0-8724-462beded26d6.png)
+![UNet](https://user-images.githubusercontent.com/74166634/128168398-d98494a9-b8aa-4743-8fb8-899240b78130.png)
